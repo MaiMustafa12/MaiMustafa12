@@ -10,10 +10,10 @@
 
 ## 👩‍💻 About Me
 
-- 💻 Passionate about Backend Development
-- 🌱 Currently learning C++, Python and Git
-- 🚀 Building projects and improving my programming skills
-- 📍 Egypt
+-  Passionate about Backend Development
+-  Currently learning C++, Python and Git
+-  Building projects and improving my programming skills
+-  Egypt
 
 ## 🛠️ Tech Stack
 
