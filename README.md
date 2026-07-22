@@ -8,12 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Backend+Developer;C%2B%2B+%7C+Python+%7C+GitHub" />
 </p>
 
-## 👩‍💻 About Me
+ ## 👩‍💻 About Me
 
--  Passionate about Backend Development
--  Currently learning C++, Python and Git
--  Building projects and improving my programming skills
--  Egypt
+- Computer Science Student
+- Aspiring Backend Developer
+- C++ | Python | HTML
+- Interested in Software Engineering
+- Data Structures & Problem Solving
 
 ## 🛠️ Tech Stack
 
