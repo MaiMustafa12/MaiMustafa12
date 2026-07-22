@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Mai%20Mostafa&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:FF69B4&height=220&section=header&text=Mai%20Mostafa&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mai Mostafa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Backend+Developer;C%2B%2B+%7C+Python+%7C+GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Backend+Developer;C%2B%2B+%7C+Python+%7C+GitHub" />
 </p>
 
 ## 👩‍💻 About Me
@@ -25,13 +25,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MaiMustafa12&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiMustafa12&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaiMustafa12&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiMustafa12&layout=
 ✨ <b>Keep Learning • Keep Building • Never Stop Growing</b> ✨
 </p>
