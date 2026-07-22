@@ -1,29 +1,30 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:FF69B4&height=220&section=header&text=Mai%20Mostafa&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<h2 align="left">
+  <br>Hi, I'm <b>Mai Mostafa</b> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br><br>
+
+  Computer Science Student 👩‍💻<br><br>
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
+</h2>
+
+<h2 align="left">🛠️ Technologies & Tools</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,git,github,vscode" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mai Mostafa</h1>
+<h2 align="left">👩‍💻 About Me</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Backend+Developer;C%2B%2B+%7C+Python+%7C+GitHub" />
+- 🎓 Computer Science Student
+- 💻 Aspiring Backend Developer
+- 🌐 Skilled in C++ and Python
+- 📖 Learning HTML and Backend Development
+- 🧩 Interested in Data Structures and Problem Solving
+- 🚀 Building projects and improving my programming skills
+
+<h2 align="left">📫 Connect with Me</h2>
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
-
- ## 👩‍💻 About Me
-
-- Computer Science Student
-- Aspiring Backend Developer
-- C++ | Python | HTML
-- Interested in Software Engineering
-- Data Structures & Problem Solving
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,html,css&perline=7" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MaiMustafa12&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiMustafa12&layout=
